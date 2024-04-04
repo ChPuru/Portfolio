@@ -72,18 +72,18 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 ::-webkit-selection {
-  color: #000; /* Black font color */
-  background: #fff; /* White background color */
+  color: #fff; /* Black font color */
+  background: #000; /* White background color */
 }
 
 ::-moz-selection {
-  color: #000; /* Black font color */
-  background: #fff; /* White background color */
+  color: #fff; /* Black font color */
+  background: #000; /* White background color */
 }
 
 ::selection {
-  color: #000; /* Black font color */
-  background: #fff; /* White background color */
+  color: #fff; /* Black font color */
+  background: #000; /* White background color */
 }
 
 #fh5co-header,
