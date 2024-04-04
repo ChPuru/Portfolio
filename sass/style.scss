@@ -159,17 +159,17 @@ h1, h2, h3, h4, h5, h6, figure {
 	margin: 0 0 20px 0;
 }
 ::-webkit-selection {
-  color: $brand-white;
-  background: $brand-primary;
+  color: $brand-black;
+  background: $brand-white;
 }
 
 ::-moz-selection {
-  color: $brand-white;
-  background: $brand-primary;
+  color: $brand-black;
+  background: $brand-white;
 }
 ::selection {
-  color: $brand-white;
-  background: $brand-primary;
+  color: $brand-black;
+  background: $brand-white;
 }
 
 
